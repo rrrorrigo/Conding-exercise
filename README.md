@@ -19,6 +19,6 @@ After the creation of these variables everything was much easier, it was only ne
 The execution is quite intuitive, after being executed the main file will ask you to enter the path to the txt file. I did some simple error handling like making a mistake with the file name or that the format of the hours worked are wrongly set.
 
 Example of execution:
-´´´
+```
     python .\main.py
-´´´
+```
